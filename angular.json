@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Product-List"
+    }
+  },
+  "defaultProject": "Product-List",
+  "cli": {
+    "analytics": false
+  }
 }
